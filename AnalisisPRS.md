@@ -969,9 +969,9 @@ prs.result[which.max(prs.result$R2),]
 El PRS mejor ajustado se encuentra en el umbral 0.3 del p-valor y
 explica un 0.1612372 la variación fenotípica.
 
-## 4.2 PARAMETRAJE
+## 4.2 CONFIGURACION DE PARAMETROS
 
-Probamos distintos parametrajes para ver si existen diferencias y
+Probamos distintas configuraciones de los parámetroa para ver si existen diferencias y
 variantes raras que se excluyen cuando fijamos los umbrales estándar.
 
 ### 4.2.1 RADIO DE AGLOMERACION/CLUMPING
