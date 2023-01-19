@@ -610,7 +610,7 @@ validados en dicho archivo con la *flag* a1-allele.
 # 4 CALCULO DE PRS
 
 Trabajamos con el software de análisis genético PLINK-1.9, probando
-distintos parametrajes y validando los datos con
+distintas configuraciones de los parámetros.
 
 ## 4.1 PLINK
 
